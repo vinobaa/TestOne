@@ -3,6 +3,7 @@
 class Test extends MY_Controller {
 
     public function __construct() {
+	    exit("hshsh");
 
         parent::__construct();
 
